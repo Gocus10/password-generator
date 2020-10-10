@@ -1,3 +1,3 @@
 # Password Generator
-![Alt text](/screenshot.png)
+![Alt text](/Docs/screenshot.png)
 https://gocus10.github.io/password-generator/
